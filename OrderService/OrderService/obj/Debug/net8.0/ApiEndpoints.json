@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "OrderService.Controllers.OrdersController",
+    "Method": "GetOrders",
+    "RelativePath": "api/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrderService.Controllers.OrdersController",
+    "Method": "Checkout",
+    "RelativePath": "api/orders/checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OrderService.RequestModel.CheckoutRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrderService.Controllers.OrdersController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/orders/create-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderDto",
+        "Type": "OrderService.Models.OrderDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ApiGateway\\ApiGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PaymentService\\PaymentService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProductionAdapterService\\ProductionAdapterService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OrderService\\OrderService\\OrderService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "InvoiceService\\InvoiceService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EmailService\\EmailService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

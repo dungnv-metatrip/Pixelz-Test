@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ProductionAdapterService.Controllers.ProductionController",
+    "Method": "PushToProduction",
+    "RelativePath": "api/Production",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProductionAdapterService.RequestModel.ProductionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

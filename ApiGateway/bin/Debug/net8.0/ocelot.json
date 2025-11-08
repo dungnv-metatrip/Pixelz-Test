@@ -1,0 +1,45 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/orders",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44385
+        }
+      ],
+      "UpstreamPathTemplate": "/orders",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/orders/checkout",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44385
+        }
+      ],
+      "UpstreamPathTemplate": "/orders/checkout",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/orders/create-order",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44385
+        }
+      ],
+      "UpstreamPathTemplate": "/orders/create-order",
+      "UpstreamHttpMethod": [ "POST" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7194"
+  }
+}
+
+

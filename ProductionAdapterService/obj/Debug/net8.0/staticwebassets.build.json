@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "v5Iz44zNSSTQmIdBAZBIYz2pkiOBvpRqGcPcaqK5um4=",
+  "Source": "ProductionAdapterService",
+  "BasePath": "_content/ProductionAdapterService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

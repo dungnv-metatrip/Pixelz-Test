@@ -1,0 +1,6 @@
+@ProductionAdapterService_HostAddress = http://localhost:5238
+
+GET {{ProductionAdapterService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

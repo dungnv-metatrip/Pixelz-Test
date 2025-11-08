@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PaymentService.Controllers.PaymentsController",
+    "Method": "ProcessPayment",
+    "RelativePath": "api/Payments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PaymentService.RequestModel.PaymentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

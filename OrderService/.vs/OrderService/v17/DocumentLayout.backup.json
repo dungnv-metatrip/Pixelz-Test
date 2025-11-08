@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66CDE23A-4193-4DFE-9C4F-94FDFE483210}|..\\PaymentService\\PaymentService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\paymentservice\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658026CB-C05F-4B0D-8810-905402E3EC3B}|OrderService\\OrderService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\orderservice\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658026CB-C05F-4B0D-8810-905402E3EC3B}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999B553E-1006-48C4-AF3E-E8C8F1C26C42}|EmailService\\EmailService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\orderservice\\emailservice\\worker\\emailworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999B553E-1006-48C4-AF3E-E8C8F1C26C42}|EmailService\\EmailService.csproj|solutionrelative:emailservice\\worker\\emailworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A69004-2315-438B-AAFE-43664B89C08B}|..\\ProductionAdapterService\\ProductionAdapterService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\productionadapterservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6691738D-81F8-41C3-B837-D1D19F69922F}|..\\InvoiceService\\InvoiceService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\invoiceservice\\worker\\invoiceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6691738D-81F8-41C3-B837-D1D19F69922F}|..\\InvoiceService\\InvoiceService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\invoiceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999B553E-1006-48C4-AF3E-E8C8F1C26C42}|EmailService\\EmailService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\orderservice\\emailservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999B553E-1006-48C4-AF3E-E8C8F1C26C42}|EmailService\\EmailService.csproj|solutionrelative:emailservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658026CB-C05F-4B0D-8810-905402E3EC3B}|OrderService\\OrderService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\orderservice\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{658026CB-C05F-4B0D-8810-905402E3EC3B}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658026CB-C05F-4B0D-8810-905402E3EC3B}|OrderService\\OrderService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\orderservice\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658026CB-C05F-4B0D-8810-905402E3EC3B}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07760DE-8082-4D39-84DC-A119066A503B}|..\\ApiGateway\\ApiGateway.csproj|c:\\users\\mayti\\desktop\\pixeltest\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CDE23A-4193-4DFE-9C4F-94FDFE483210}|..\\PaymentService\\PaymentService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\paymentservice\\requestmodel\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A69004-2315-438B-AAFE-43664B89C08B}|..\\ProductionAdapterService\\ProductionAdapterService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\productionadapterservice\\requestmodel\\productionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658026CB-C05F-4B0D-8810-905402E3EC3B}|OrderService\\OrderService.csproj|c:\\users\\mayti\\desktop\\pixeltest\\orderservice\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658026CB-C05F-4B0D-8810-905402E3EC3B}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F07760DE-8082-4D39-84DC-A119066A503B}|..\\ApiGateway\\ApiGateway.csproj|c:\\users\\mayti\\desktop\\pixeltest\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\ProductionAdapterService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\ProductionAdapterService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\ProductionAdapterService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\ProductionAdapterService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T15:21:38.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceWorker.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\InvoiceService\\Worker\\InvoiceWorker.cs",
+              "RelativeDocumentMoniker": "..\\InvoiceService\\Worker\\InvoiceWorker.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\InvoiceService\\Worker\\InvoiceWorker.cs",
+              "RelativeToolTip": "..\\InvoiceService\\Worker\\InvoiceWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:15:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\PaymentService\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "..\\PaymentService\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\PaymentService\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "..\\PaymentService\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:37:14.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\EmailService\\Program.cs",
+              "RelativeDocumentMoniker": "EmailService\\Program.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\EmailService\\Program.cs",
+              "RelativeToolTip": "EmailService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:47:06.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:09:59.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "..\\ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:36:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:16:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T09:14:52.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailWorker.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\EmailService\\Worker\\EmailWorker.cs",
+              "RelativeDocumentMoniker": "EmailService\\Worker\\EmailWorker.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\EmailService\\Worker\\EmailWorker.cs",
+              "RelativeToolTip": "EmailService\\Worker\\EmailWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:50:31.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\InvoiceService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InvoiceService\\Program.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\InvoiceService\\Program.cs",
+              "RelativeToolTip": "..\\InvoiceService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:14:24.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\OrderService\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:22:36.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\ProductionAdapterService\\RequestModel\\ProductionRequest.cs",
+              "RelativeDocumentMoniker": "..\\ProductionAdapterService\\RequestModel\\ProductionRequest.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\ProductionAdapterService\\RequestModel\\ProductionRequest.cs",
+              "RelativeToolTip": "..\\ProductionAdapterService\\RequestModel\\ProductionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:42:01.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\PaymentService\\RequestModel\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "..\\PaymentService\\RequestModel\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\PaymentService\\RequestModel\\PaymentRequest.cs",
+              "RelativeToolTip": "..\\PaymentService\\RequestModel\\PaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T02:36:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\mayti\\Desktop\\PixelTest\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\mayti\\Desktop\\PixelTest\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "..\\ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T03:37:59.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
