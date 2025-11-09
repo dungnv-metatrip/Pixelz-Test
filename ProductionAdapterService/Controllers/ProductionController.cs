@@ -15,7 +15,7 @@ namespace ProductionAdapterService.Controllers
 
             // Simulate internal system call
             var random = new Random();
-            var success = random.Next(1, 10) > 2; // 80% success rate
+            var success = random.Next(1, 10) > 2;
 
             if (!success)
             {
@@ -26,8 +26,7 @@ namespace ProductionAdapterService.Controllers
                 });
             }
 
-            // Normally this is where we’d call an internal API via HttpClient.
-            // Example:
+            // this is where we’d call an internal API
             // await _httpClient.PostAsync("http://internal-system/api/orders", ...)
 
             return Ok(new
