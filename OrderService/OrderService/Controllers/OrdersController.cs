@@ -85,24 +85,25 @@ namespace OrderService.Controllers
                 await _publisher.ConnectAsync();
                 await _publisher.DeclareExchangeAsync("pixelz.exchange");
                 await _publisher.PublishAsync("", new OrderCheckedOutEvent(order.Id, order.Name, order.Amount, order.Email));
-            }
 
-            //Step 4: Push to Production System
-            var productionPayload = JsonSerializer.Serialize(new
-            {
-                orderId = order.Id,
-                status = "ReadyForProduction"
-            });
 
-            var productionResponse = await _httpClient.PostAsync(
-                 _configuration.GetSection("productionSvcEndpoint").Value,
-                new StringContent(productionPayload, Encoding.UTF8, "application/json")
-            );
+                //Step 4: Push to Production System
+                var productionPayload = JsonSerializer.Serialize(new
+                {
+                    orderId = order.Id,
+                    status = "ReadyForProduction"
+                });
 
-            if (productionResponse.IsSuccessStatusCode)
-            {
-                order.Status = "SentToProduction";
-                _repository.Update(order);
+                var productionResponse = await _httpClient.PostAsync(
+                     _configuration.GetSection("productionSvcEndpoint").Value,
+                    new StringContent(productionPayload, Encoding.UTF8, "application/json")
+                );
+
+                if (productionResponse.IsSuccessStatusCode)
+                {
+                    order.Status = "SentToProduction";
+                    _repository.Update(order);
+                }
             }
 
             return Ok(order);
